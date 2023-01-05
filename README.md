@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumanKumarKanala
 - 👀 I’m interested in Data Scince,AI,NLP,Data Analysis,Machine Learning
-- 🌱 I’m currently working at AI VARIANT
+- 🌱 I’m currently working at Infosys
 - 💞️ I’m looking to collaborate on various projects
 - 📫 feel free to reach me drop a mail @ kanalasuman1@gmail.com
 
